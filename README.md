@@ -35,7 +35,7 @@
 
 ## 🚀 วิธีติดตั้งและใช้งาน
 
-### 🔹 วิธีที่ 1: ติดตั้งด้วย `wget` (สไตล์ ShowOn) ⭐ แนะนำ
+### 🔹 วิธีที่ 1: ติดตั้งด้วย `wget` ⭐ แนะนำ
 ```bash
 wget -O /root/Install https://raw.githubusercontent.com/TspKchn/universal-tcp-bbr-fq/main/universal-tcp-bbr-fq.sh && chmod +x /root/Install && /root/Install && rm -f /root/Install
 ```
